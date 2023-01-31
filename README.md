@@ -14,7 +14,7 @@ Unique Password Generator is program that generate unique strong password for yo
 # Diployed Link: https://ajinthapa2000.github.io/Unique-Password-Generetor/
 
 # Screen-Shot
-
+![](images/screenshot.JPG)
 
 
 
